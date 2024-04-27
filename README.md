@@ -27,6 +27,8 @@ Format will be as follows :
 
 *6 cost* -> Boom bugsx2 **front slot**
 
+⚠️**If arro is almost back up to his ult, tempo with a tank instead of immediately lego flyers** ⚠️
+
 *10 cost* -> Lego flyerx2 **front slot**
 
 *5 cost* -> Epic flyer **doesn't matter, you won**
