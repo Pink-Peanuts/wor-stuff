@@ -51,9 +51,13 @@ The two ground units don't really matter, they just bait stuff.
 #### Timings
 
 *As soon as valk & silas ults are ready* -> Any bait unit **Doesn't matter**
+
 *16 left on valk ult* -> Lego Flyer x2 **Back slot**
+
 *Silas ult up* -> Any bait unit **Doesn't matter**
+
 *10 Cost* -> Epic flyers **Back slot**
+
 *6 cost* -> Rare flyers **Front slot**
 
 ## Forts
@@ -94,11 +98,17 @@ At this point it should be done already, but if you need to send in dogs, you pr
 #### Timings
 
 ** -> ** **
+
 ** -> ** **
+
 ** -> ** **
+
 ** -> ** **
+
 ** -> ** **
+
 ** -> ** **
+
 ** -> ** **
     
 
