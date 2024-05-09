@@ -70,7 +70,8 @@ The two ground units don't really matter, they just bait stuff.
 
 #### Affiliation order
 
-![Uploading image.png…]()
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/89311202-875b-4617-a7fa-90aa4d452c6e)
+
 
 
 #### Timings
