@@ -176,6 +176,35 @@ Either send in another fighter stack if you need that tank dead, or mages to cle
 
 </details>
 
+<details>
+
+<summary>Khamet/Arro double tank </summary> 
+<br>
+#### Team Layout
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/7bbc89aa-46c2-4ae6-ab25-fc13d83b8200)
+
+
+#### Affiliation order
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/bf2047ee-a547-453a-8d80-8e1787fcfcf8)
+
+
+#### Timings
+
+*10 cost* -> Rare dogs **Front slot**
+
+*10 cost* -> Lego flyers x2 **Front slot**
+
+*1:48 left* -> Rare dogs **Back slot**
+
+*1:29 left* -> Epic flyers x2 **Front slot**
+
+</details>
+
+
+
+
 ---
 
 <details>
