@@ -42,6 +42,7 @@ Format will be as follows :
 <summary> Silas/Valk teams (no Marri) </summary>
 
 #### Team Layout
+
 ![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/df1c3a98-5cb1-43e8-b5a1-bfc31af9bb3e)
 
 #### Affiliation order
@@ -180,6 +181,7 @@ Either send in another fighter stack if you need that tank dead, or mages to cle
 
 <summary>Khamet/Arro double tank </summary> 
 <br>
+
 #### Team Layout
 
 ![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/7bbc89aa-46c2-4ae6-ab25-fc13d83b8200)
@@ -201,6 +203,36 @@ Either send in another fighter stack if you need that tank dead, or mages to cle
 *1:29 left* -> Epic flyers x2 **Front slot**
 
 </details>
+
+<details>
+
+<summary>Ajax/Valk (and any full magic damage fort stack really) </summary> 
+<br>
+
+#### Team Layout
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/180471ae-5593-4a70-b47f-b3d251ce27ac)
+
+#### Affiliation order
+
+Epic flyers first, lego second, the rest legitimately doesn't matter. C.f the above Khamet/Arro defence
+
+#### Timings
+
+*10 cost* -> Mage Tank **Back slot**
+
+🕐The exact time of the line below varies, you want the lego flyers to arrive after all the ults, lego flyers take roughly 30 seconds to arrive from the middle slot
+
+*2:13 left* -> Lego Flyer x2 **Middle slot**
+
+*10 cost* -> Dagger girlsx2 **Front slot**
+
+❔ Kind of depends on who is alive, epic flyers worked for me here, but if it's a different mage than Ajax, units other than epic flyers might be the better option.
+
+*10 cost* -> Epic flyers **Front slot**
+
+</details>
+
 
 
 
