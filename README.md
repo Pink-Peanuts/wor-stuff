@@ -104,6 +104,39 @@ Either send in another fighter stack if you need that tank dead, or mages to cle
 
 </details>
 
+<details>
+
+<summary> Praetus/Valk/Silas </summary> 
+<br>
+#### Team Layout
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/bdc65fb4-e0ea-453e-8e6c-79ab2868b705)
+
+
+#### Affiliation order
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/8fca8ffa-437f-4905-8db7-7e97ab0ece9d)
+
+
+#### Timings
+
+*As soon as it starts* -> Rare tanks **Front Slot**
+
+*5 left on Silas ult* -> Rare tanks **Back Slot**
+
+*10 cost* -> Epic Dogs x2 **Front slot**
+
+*3 cost* -> Spiders **Front slot**
+
+*1:33 left* -> Spiders (bait) **Back slot**
+
+*10 cost* -> Lego flyers **Back slot**
+
+Send in whatever you have left, it's either a win or you're fucked
+
+</details>
+
+
 ---
 
 ## Forts
@@ -234,6 +267,63 @@ Epic flyers first, lego second, the rest legitimately doesn't matter. C.f the ab
 </details>
 
 
+<details>
+
+<summary> Silas/Khamet/Aracha </summary> 
+<br>
+
+#### Team Layout
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/3aed82e6-43f2-4047-b584-dc103c1a3038)
+
+
+#### Affiliation order
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/4ee9f8f1-5f16-4354-8428-3add5113e2d6)
+
+
+#### Timings
+
+*When all ults are up* -> Fat fighter/tank/whatever can survive to trigger ults **Front slot**
+
+*Khamet 7-8 left on ult* ->  Dagger girls x2 **Front slot**
+
+*Dagger girls at tank* -> Epic dogs x1 **Front slot**
+
+You should have won, if you didn't, the path should be clear, if not, you can probably just send lego flyers through, or any number of approaches.
+
+**Plan ahead, take what you might need to get through, Aracha at the very least should be dead**
+
+</details>
+
+
+<details>
+
+<summary> Silas/Zil/Aracha/Brokkir </summary> 
+<br>
+
+#### Team Layout
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/063b6f87-d5b3-4321-9bdd-ea3bd7767b6d)
+
+
+#### Affiliation order
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/a779a452-34b3-4c14-bcc8-005cad9f49d9)
+
+
+#### Timings
+
+*ASAP* -> Necro (What I used, probably better options, so they survive for sure to trigger zili ult) **Front slot**
+
+*2:23 left* -> Rare tank x2 **Back slot**
+
+*10 cost* -> Epic dog x2 **Front slot**
+
+At this point it was done. **BUT**, if for any reason this was not enough, you should still have a necro, lego flyers, and rare dogs. Try to slip in between ults with lego flyers to take out another DPS, and then go for a necro + dog swarm I guess
+
+</details>
+
 
 
 
@@ -243,6 +333,7 @@ Epic flyers first, lego second, the rest legitimately doesn't matter. C.f the ab
 
 <summary>Blank template </summary> 
 <br>
+
 #### Team Layout
 
 #### Affiliation order
