@@ -108,6 +108,7 @@ Either send in another fighter stack if you need that tank dead, or mages to cle
 
 <summary> Praetus/Valk/Silas </summary> 
 <br>
+
 #### Team Layout
 
 ![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/bdc65fb4-e0ea-453e-8e6c-79ab2868b705)
