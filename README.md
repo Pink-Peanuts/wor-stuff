@@ -137,6 +137,82 @@ Send in whatever you have left, it's either a win or you're fucked
 
 </details>
 
+<details>
+
+<summary> Northerner Valk/Maul/Marri </summary> 
+
+<br>
+
+#### Team Layout
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/22bf6d19-a076-40f8-89fb-4cef5a75d429)
+
+
+#### Affiliation order
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/34d65d33-169f-43d0-aab8-47bd67456016)
+
+
+#### Timings
+
+- *Immediately* -> Mage tank **Front slot**
+  
+- *10 cost* -> Dagger girls **Front slot** Axe men **Back slot**
+  
+- *3 cost* -> Healer **Front slot**
+
+⚠️Use some judgement here, if you have time to get dogs through before Marri pops her ult, send them in, if not (she's >75% on her ult bar) wait to send them out
+
+- *When Marri's ult is not a risk* -> Dogs **Front slot**
+
+- *5 cost* -> Dogs **Front slot**
+
+</details>
+
+<details>
+
+<summary>Northerner Hatssut/Valk/(Marri or Greed) </summary> 
+
+<br>
+
+#### Team Layout
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/ed57e1af-5b40-4035-aaa4-8f1ab6dcb5c4)
+
+
+#### Affiliation order
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/86921f04-f662-45d1-9b62-cb1ff3753db6)
+
+
+#### Timings
+
+*10 cost* -> Maw **Back slot**
+
+⚠️
+
+Here it really depends a lot, I sent in a tank, I'm not even sure if there is any value to this, you might be able to go straight for fighters
+
+It may be best to also send in healers together, or sooner, or really it depends on the situation. This is what worked for me
+
+⚠️
+
+*5 cost* -> Tank **Back slot**
+
+*4 cost* -> Healer **Front slot**
+
+*4 cost* -> Healer **Front slot**
+
+*Pnce the platform unit is dead* -> Dogs **Front slot**
+
+*5 cost (not into mauls ult)* -> Dogs **Front slot**
+
+*Whatever* -> IDK **Random bullshit go**
+
+</details>
+
+
+
 
 ---
 
@@ -324,6 +400,7 @@ You should have won, if you didn't, the path should be clear, if not, you can pr
 At this point it was done. **BUT**, if for any reason this was not enough, you should still have a necro, lego flyers, and rare dogs. Try to slip in between ults with lego flyers to take out another DPS, and then go for a necro + dog swarm I guess
 
 </details>
+
 
 
 
