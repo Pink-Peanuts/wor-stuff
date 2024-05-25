@@ -7,6 +7,7 @@ Format will be as follows :
 
 ## Towers
 
+
 <details>
 <summary> NM Hatssut/Arrogance teams (Hatssut front) </summary>
     
@@ -213,6 +214,41 @@ It may be best to also send in healers together, or sooner, or really it depends
 
 
 
+<details>
+
+<summary>Northerner cunts (Valk/Maul/Marri type shit)</summary> 
+<br>
+
+#### Team Layout
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/31562e79-88ab-457a-80a3-980a1256c110)
+
+
+#### Affiliation order
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/39b1070a-ebd5-4ab2-a87f-651f66215cb2)
+
+
+#### Timings
+
+- *10 Cost* -> Mage tank **Back slot**
+
+- *10 Cost* -> Mage tank **Back slot**
+  
+- *10 Cost* -> Lego fighter **Back slot**
+  
+- *6 Cost* -> Lego fighter **Front slot**
+  
+- *10 Cost* -> Healer x2 **Back slot**
+  
+:warning: Watch ult timers, if you can slip in double epic dogs right now it may be better than bothering with rare tanks :warning: 
+
+- *10 cost* -> Rare tank (only one) **Front slot**
+  
+- :warning: Don't walk right into a Marri ult, 10 cost but be attentive :warning:  -> Double dogs **Front slot**
+
+</details>
+
 
 ---
 
@@ -398,6 +434,37 @@ You should have won, if you didn't, the path should be clear, if not, you can pr
 *10 cost* -> Epic dog x2 **Front slot**
 
 At this point it was done. **BUT**, if for any reason this was not enough, you should still have a necro, lego flyers, and rare dogs. Try to slip in between ults with lego flyers to take out another DPS, and then go for a necro + dog swarm I guess
+
+</details>
+
+<details>
+
+<summary>Even More Northerner cunts </summary> 
+<br>
+
+#### Team Layout
+
+#### Affiliation order
+
+#### Timings
+
+*10 cost* -> Maw **Back slot**
+
+*10 cost* -> Lego fighter **Back slot**
+
+*6 Cost* -> Lego fighter**Front slot**
+
+⚠️Evaluate carefully here, the safest option is probably to go with healer first, but fighter stack can work if your Maw is high enough BP. Maybe 2 healers is better instead of one and then axe. ⚠️
+
+*3 cost* -> Healer **Front slot**
+
+*6 cost* -> Axe men **Front slot**
+
+*3 cost* -> Healer **Front slot**
+
+⚠️If coast is almost clear, send in dogs, otherwise you may want to send in axe men first, and rush dogs as soon as you can ⚠️
+
+*10 cost* -> Double dogs **Front slot**
 
 </details>
 
