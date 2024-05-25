@@ -444,7 +444,13 @@ At this point it was done. **BUT**, if for any reason this was not enough, you s
 
 #### Team Layout
 
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/a677d407-434c-4bef-8c14-0bfb6b3904df)
+
+
 #### Affiliation order
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/b2a60950-c265-4a05-a42c-6a91017112d1)
+
 
 #### Timings
 
