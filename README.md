@@ -6,6 +6,6 @@
 ### [Towers](Towers.md)
 ### [Forts](Forts.md)
 
-## General tips
+## General
 
 ### [Gear Cleansing](Gear-Cleansing.md)
