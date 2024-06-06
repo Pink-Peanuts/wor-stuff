@@ -241,3 +241,33 @@ It may be best to also send in healers together, or sooner, or really it depends
 - :warning: Don't walk right into a Marri ult, 10 cost but be attentive :warning:  -> Double dogs **Front slot**
 
 </details>
+
+<details>
+
+<summary>This is just a northerner guide. (Elddr/Valk/Marri/Elowyn/Tank)</summary> 
+<br>
+
+#### Team Layout
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/3179804b-339d-4625-beac-5ad008df69a0)
+
+#### Affiliation order
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/866b4cd0-d465-44c3-b872-8f46952f6697)
+
+
+#### Timings
+
+- *10 cost* -> Mage tank **Back slot**
+
+- *Valk at 17 left on ult* -> Lego flyersx2 **Back slot** (There may be some wiggle room here, sending earlier could be better)
+
+- *3 cost* -> Healer **Front slot**
+
+- *3 cost* -> Healer **Front slot**
+
+- *10 cost* -> Epic flyer **Back slot**
+
+- *6 cost* -> Rare flyer x2 **Front slot**
+
+</details>
