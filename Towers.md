@@ -230,7 +230,7 @@ It may be best to also send in healers together, or sooner, or really it depends
   
 - *10 Cost* -> Lego fighter **Back slot**
   
-- *6 Cost* -> Lego fighter **Front slot**
+- *10 Cost* -> Lego fighter **Front slot**
   
 - *10 Cost* -> Healer x2 **Back slot**
   
