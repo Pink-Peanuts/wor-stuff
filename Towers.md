@@ -296,7 +296,7 @@ It may be best to also send in healers together, or sooner, or really it depends
 
 ⚠️If you're hitting a strong BP one, and your BP is not, it may be best to send in two mage tanks, and then resume as normal ⚠️
 
-- *Valk at 7 left on ult* -> Epic flyer **Back slot**
+- *Praetus at 3 left on ult* -> Epic flyer **Back slot**
 
 - *6 cost* -> Rare flyer **Front slot**
 
