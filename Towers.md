@@ -271,3 +271,34 @@ It may be best to also send in healers together, or sooner, or really it depends
 - *6 cost* -> Rare flyer x2 **Front slot**
 
 </details>
+
+<details>
+
+<summary> Praetus Northerner (Praetus/Valk/Marri)</summary> 
+<br>
+
+#### Team Layout
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/121e070b-660b-4f08-b3c0-c08faf6440c7)
+
+
+#### Affiliation order
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/f0269545-e3ee-4070-9c4e-03c729620e4b)
+
+#### Timings
+
+- *10 cost* -> Archers x2 **Front slot**
+
+- *Valk at 13 left on ult* -> Lego flyersx2 **Front slot** 
+
+- *10 cost* -> Mage tank **Back slot** 
+
+⚠️If you're hitting a strong BP one, and your BP is not, it may be best to send in two mage tanks, and then resume as normal ⚠️
+
+- *Valk at 7 left on ult* -> Epic flyer **Back slot**
+
+- *6 cost* -> Rare flyer **Front slot**
+
+</details>
+
