@@ -220,6 +220,37 @@ At this point it was done. **BUT**, if for any reason this was not enough, you s
 
 </details>
 
+
+
+<details>
+
+<summary>Arbiter fort stacks</summary> 
+<br>
+
+#### Team Layout
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/5dc463cf-8651-407a-806d-f8994b01b457)
+
+
+#### Affiliation order
+
+![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/ad33e902-fb4f-4be2-9fb2-586c34460501)
+
+
+#### Timings
+
+*At start* -> Mage tank **Front slot**
+
+*10 cost* -> Mage tank **Back slot**
+
+*10 cost* -> Bombs x2 **Back slot**
+
+*6 cost* -> Spiders x2 **Front slot**
+
+Send in flyers, win.
+
+</details>
+
 ---
 
 <details>
