@@ -1,11 +1,9 @@
-# Contents
+# GvG resources
 
-## GvG
+## [General Tips](General-tips.md)
 
-### [General Tips](General-tips.md)
-### [Towers](Towers.md)
-### [Forts](Forts.md)
 
-## General
+## Season 4
+### [Towers](Towers-s4.md)
+### [Forts](Forts-s4.md)
 
-### [Gear Cleansing](Gear-Cleansing.md)
